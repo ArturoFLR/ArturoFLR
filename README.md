@@ -1,11 +1,13 @@
 ### Hi
 
-#### I'm a Frontend Developer working in Madrid, Spain.
+#### I'm Arturo, a Frontend Developer working in Madrid, Spain.
 
-##### BIO
+- :toolbox:  I'm currently working on **[Plant-In App](https://github.com/Mgll3/agro-plantation-app)**
 
-- 🏢 I'm currently working at **[ID for Ideas](https://github.com/Mgll3/agro-plantation-app)**
-- ⚙️ I use daily: `React JS`, `TypeScript`, `SCSS`, ...
+##### SKILLS
+
+- ⚙️  I use daily: `React JS`, `TypeScript`, `SCSS`, `Git`.
+- :desktop_computer:  Additional Skills: `Redux`, `Tailwind`, `Docker`, `Git`, `Jest`, `Jira`, ...
 
 
 <p>
