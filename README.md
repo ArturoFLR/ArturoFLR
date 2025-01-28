@@ -7,7 +7,7 @@
 ##### SKILLS
 
 - ⚙️  I use daily: `React JS`, `TypeScript`, `SCSS`, `Git`.
-- :desktop_computer:  Additional Skills: `Redux`, `Tailwind`, `Docker`, `Git`, `Jest`, `Jira`, ...
+- :desktop_computer:  Additional Skills: `Redux`, `Tailwind`, `Docker`, `Jest`, `Jira`, ...
 
 
 <p>
