@@ -12,6 +12,6 @@
 
 <p>
   <a href="mailto:jhonas29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arturo-lopez-rosa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=MailChimp&logoColor=white"/></a>
-  <a href="https://alrportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/porfolio-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio Badge"/></a>
+  <a href="https://www.linkedin.com/in/arturo-lopez-rosa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://alrportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/porfolio-000000.svg?style=for-the-badge&logo=Codementor&logoColor=white" alt="Portfolio Badge"/></a>
 </p>
