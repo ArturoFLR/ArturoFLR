@@ -13,5 +13,5 @@
 <p>
   <a href="mailto:jhonas29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arturo-lopez-rosa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://alrportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/></a>
+  <a href="https://alrportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-ff5733.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/></a>
 </p>
