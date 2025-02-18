@@ -8,7 +8,7 @@
 
 - ⚙️  I use daily: `React JS`, `TypeScript`, `SCSS`, `Git`.
 - :desktop_computer:  Additional Skills: `Redux`, `Tailwind`, `Docker`, `Jest`, `Jira`, ...
-- :bulb:  Technologies I'm Currently Learning: `Angular`, `Styled Components`.
+- :bulb:  Technologies I'm Currently Learning: `Next.js`, `Styled Components`.
 
 
 <p>
